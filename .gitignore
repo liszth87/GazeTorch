@@ -73,3 +73,6 @@ app/modules
 bias_detection/weights_pkl
 app/icon
 log
+# Local macOS demo bundle and virtual environment
+/GazeTorch Demo.app/
+/.venv/

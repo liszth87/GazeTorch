@@ -9,6 +9,10 @@ Minimal requirements:
 * `timm` (for MAE models only)
 * `imutils` (for glasses augmentation features)
 
+## macOS webcam demo
+
+See [demo/README.md](demo/README.md) for a local webcam-to-gaze-dot app with calibration, accuracy checks, and optional posture and drift checks.
+
 ## The ZeroGaze-10K dataset
 
 https://drive.google.com/file/d/1TanMj9-NCEhAv9JAQteCh5wG1An9APSf/view
